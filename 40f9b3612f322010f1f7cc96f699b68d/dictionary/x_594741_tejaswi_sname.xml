@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="sname" max_length="40" name="x_594741_tejaswi_sname" type="collection">
+        <element label="sname" max_length="40" name="sname" type="string"/>
+    </element>
+</database>
